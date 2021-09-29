@@ -1,6 +1,6 @@
 @font-face {
     font-family: SfPro;
-    src: url(https://arshadakl.github.io/netlify-site/Components/fonts/FontsFree-Net-SFProDisplay-Regular.ttf);
+    src: url(/Components/fonts/FontsFree-Net-SFProDisplay-Regular.ttf);
   }
   @font-face {
     font-family: JumperPro;
