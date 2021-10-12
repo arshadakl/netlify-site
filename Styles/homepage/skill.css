@@ -196,7 +196,7 @@
     padding: 5px 5px 0 5px;
 }.skill-bars .bar .info span{
   font-weight: 500;
-  font-size: 15px;
+  font-size: 19px;
   opacity: 0;
   animation: showText 0.5s 1s linear forwards;
 }
@@ -214,7 +214,7 @@
 }
 @media only screen and (max-width:280px) {
   .skill-bars .bar .info span{
-    font-size: 12px;
+    font-size: 13px;
   }.skill-head-txt{
     font-size: 18px;
   }

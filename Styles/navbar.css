@@ -148,9 +148,10 @@
         height: auto;
         border-radius: 6px;
     }
+    
     .logo{
         width: 100%;
-        padding-left: 25px;
+        padding-left: 30px;
     }.nav-contents{
         flex-direction: column;
     }
